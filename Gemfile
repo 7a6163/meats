@@ -38,3 +38,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'bootstrap-sass', '~> 2.2.2.0'
+
+gem 'simple_form', '~> 2.0.4'
